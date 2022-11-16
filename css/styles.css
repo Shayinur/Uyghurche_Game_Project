@@ -75,6 +75,11 @@ button {
   color: var(--color-start);
 }
 
+/* Prompt */
+.prompt {
+  font-size: large;
+  color:#445069;
+}
 /* Phrase */
 
 .letter {
